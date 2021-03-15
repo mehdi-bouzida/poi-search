@@ -1,6 +1,6 @@
 # Virtualtrips code challenge
 
-[Live app](https://poi-search.netlify.app/).
+## [Live app](https://poi-search.netlify.app/).
 
 ## Available Scripts
 
