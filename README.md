@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Virtualtrips code challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live app](https://poi-search.netlify.app/).
 
 ## Available Scripts
 
